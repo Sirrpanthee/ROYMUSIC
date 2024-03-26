@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=🔅+Ⓐⓥⓘⓢⓗⓐ+Ⓜⓐⓝⓐⓖⓔⓜⓔⓝⓣ+Ⓑⓞⓣ+🔅">
 
 
-**※ ᴛᴇxᴛ ʙᴏᴛ ➠ [๛ Ⓝ Ⓨ Ⓚ Ⓐ Ⓐ ༗࿐](https://t.me/Nykaaxbot)**
+**※ ᴛᴇxᴛ ʙᴏᴛ ➠ [ Ⓝ Ⓨ Ⓚ Ⓐ Ⓐ ࿐](https://t.me/Nykaaxbot)**
 
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=💌+Ⓓⓔⓟⓛⓞⓨ+ⓞⓝ+Ⓗⓔⓡⓞⓚⓤ+Ⓝⓞⓦ+💌">
