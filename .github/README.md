@@ -6,6 +6,7 @@
 
 **※ ᴛᴇxᴛ ʙᴏᴛ ➠ [ Ⓝ Ⓨ Ⓚ Ⓐ Ⓐ ࿐](https://t.me/Nykaaxbot)**
 
+https://graph.org/file/ae479d362c7b3d8e2396c.jpg
 
  <img src="https://readme-typing-svg.herokuapp.com?color=FF00FF&width=420&lines=💌+Ⓓⓔⓟⓛⓞⓨ+ⓞⓝ+Ⓗⓔⓡⓞⓚⓤ+Ⓝⓞⓦ+💌">
 
