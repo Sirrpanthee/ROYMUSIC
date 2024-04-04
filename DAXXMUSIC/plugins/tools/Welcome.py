@@ -9,6 +9,7 @@ from pyrogram.types import Message
 from DAXXMUSIC.misc import SUDOERS
 from DAXXMUSIC import app
 from DAXXMUSIC.Zdatabase.Welcomedb import *
+from DAXXMUSIC.utils.channelplay import WELCOME
 from config import LOGGER_ID
 
 LOGGER = getLogger(__name__)
