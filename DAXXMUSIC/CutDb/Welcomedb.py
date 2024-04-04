@@ -1,4 +1,4 @@
-from DAXXMUSIC.CutDb import *
+from DAXXMUSIC.Zdatabase import *
 
 wlcm = dbname["welcome"]
 
