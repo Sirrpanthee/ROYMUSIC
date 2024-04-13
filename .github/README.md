@@ -4,7 +4,7 @@
  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&width=420&lines=🔅+Ⓝⓨⓚⓐⓐ+Ⓜⓤⓢⓘⓒ+Ⓑⓞⓣ+🔅">
 
 
-**🍇 ※ ᴛᴇxᴛ ʙᴏᴛ ➠ [ Ⓝ Ⓨ Ⓚ Ⓐ Ⓐ ࿐](https://t.me/Nykaaxbot)**
+**🍇 ※ ᴛᴇxᴛ ʙᴏᴛ ➠ [ Ⓝ Ⓨ Ⓚ Ⓐ Ⓐ ࿐](https://t.me/NEXUXBOTS)**
 
 
 </h2>
